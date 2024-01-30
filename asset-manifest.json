@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5f9865e.css",
-    "main.js": "/static/js/main.382fe377.js",
+    "main.css": "/static/css/main.be0b761a.css",
+    "main.js": "/static/js/main.01222dd5.js",
     "static/js/787.ad81aadf.chunk.js": "/static/js/787.ad81aadf.chunk.js",
+    "static/media/analisis-vida-c.jpg": "/static/media/analisis-vida-c.dce107cc81cfe9fb987c.jpg",
+    "static/media/conveyors.jpeg": "/static/media/conveyors.da9ed35c99cb40fb5cf2.jpeg",
+    "static/media/Background-Landing-Onkore.jpg": "/static/media/Background-Landing-Onkore.552ae8aa747fb596afd6.jpg",
     "static/media/onkore-logo.png": "/static/media/onkore-logo.fd15ca0d64d79dd48b04.png",
     "static/media/AB-InBev-logo.jpg": "/static/media/AB-InBev-logo.e6fc19fbf3ebb76cf26a.jpg",
     "static/media/MES-logo.png": "/static/media/MES-logo.7a0e60c6e457506d5592.png",
     "static/media/dcf-logo.jpeg": "/static/media/dcf-logo.19249e9039c9b56fa650.jpeg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.c5f9865e.css.map": "/static/css/main.c5f9865e.css.map",
-    "main.382fe377.js.map": "/static/js/main.382fe377.js.map",
+    "main.be0b761a.css.map": "/static/css/main.be0b761a.css.map",
+    "main.01222dd5.js.map": "/static/js/main.01222dd5.js.map",
     "787.ad81aadf.chunk.js.map": "/static/js/787.ad81aadf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5f9865e.css",
-    "static/js/main.382fe377.js"
+    "static/css/main.be0b761a.css",
+    "static/js/main.01222dd5.js"
   ]
 }
